@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vishwamohan/OneDrive/Desktop/Vishu/MLOps/mlflow/mlruns/0/f491bb144f854886bc677e8fbab3de17/artifacts
+end_time: 1718346999650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f491bb144f854886bc677e8fbab3de17
+run_name: rambunctious-jay-167
+run_uuid: f491bb144f854886bc677e8fbab3de17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718346999504
+status: 3
+tags: []
+user_id: Vishwamohan
