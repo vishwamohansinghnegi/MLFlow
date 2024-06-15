@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vishwamohan/OneDrive/Desktop/Vishu/MLOps/mlflow/mlruns/0/2e0a910b373c48c7adbdb8ef9dfc829c/artifacts
+end_time: 1718450182725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e0a910b373c48c7adbdb8ef9dfc829c
+run_name: stately-snipe-979
+run_uuid: 2e0a910b373c48c7adbdb8ef9dfc829c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718450174227
+status: 3
+tags: []
+user_id: Vishwamohan

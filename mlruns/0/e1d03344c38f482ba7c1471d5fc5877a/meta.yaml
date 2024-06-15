@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vishwamohan/OneDrive/Desktop/Vishu/MLOps/mlflow/mlruns/0/e1d03344c38f482ba7c1471d5fc5877a/artifacts
+end_time: 1718451836613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d03344c38f482ba7c1471d5fc5877a
+run_name: stately-goose-971
+run_uuid: e1d03344c38f482ba7c1471d5fc5877a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718451831773
+status: 3
+tags: []
+user_id: Vishwamohan

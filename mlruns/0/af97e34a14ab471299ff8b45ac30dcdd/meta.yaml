@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vishwamohan/OneDrive/Desktop/Vishu/MLOps/mlflow/mlruns/0/af97e34a14ab471299ff8b45ac30dcdd/artifacts
+end_time: 1718451824151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af97e34a14ab471299ff8b45ac30dcdd
+run_name: welcoming-rook-234
+run_uuid: af97e34a14ab471299ff8b45ac30dcdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718451819285
+status: 3
+tags: []
+user_id: Vishwamohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vishwamohan/OneDrive/Desktop/Vishu/MLOps/mlflow/mlruns/0/6f593d0d45ce445d8b1f14275ce9f5ad/artifacts
+end_time: 1718451782114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f593d0d45ce445d8b1f14275ce9f5ad
+run_name: gaudy-smelt-858
+run_uuid: 6f593d0d45ce445d8b1f14275ce9f5ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718451777480
+status: 3
+tags: []
+user_id: Vishwamohan

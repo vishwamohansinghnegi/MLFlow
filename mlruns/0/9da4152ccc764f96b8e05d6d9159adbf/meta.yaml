@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vishwamohan/OneDrive/Desktop/Vishu/MLOps/mlflow/mlruns/0/9da4152ccc764f96b8e05d6d9159adbf/artifacts
+end_time: 1718451769617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9da4152ccc764f96b8e05d6d9159adbf
+run_name: indecisive-yak-228
+run_uuid: 9da4152ccc764f96b8e05d6d9159adbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718451764833
+status: 3
+tags: []
+user_id: Vishwamohan

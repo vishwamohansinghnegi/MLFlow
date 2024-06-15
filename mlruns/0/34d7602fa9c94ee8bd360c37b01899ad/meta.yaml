@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vishwamohan/OneDrive/Desktop/Vishu/MLOps/mlflow/mlruns/0/34d7602fa9c94ee8bd360c37b01899ad/artifacts
+end_time: 1718449279837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34d7602fa9c94ee8bd360c37b01899ad
+run_name: carefree-sheep-619
+run_uuid: 34d7602fa9c94ee8bd360c37b01899ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718449279396
+status: 3
+tags: []
+user_id: Vishwamohan
